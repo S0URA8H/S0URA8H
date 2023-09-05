@@ -22,7 +22,7 @@
 ---
 ### :man_technologist: About Me :
 
-I am a Full Stack QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
+I am a Full Stack QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.
 
 - :telescope: I’m working as a Software Development Engineer in Test and contributing to quality building of any cross platform applications.
 
